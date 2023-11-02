@@ -1,0 +1,18 @@
+.bir{
+    border: 1px solid blue;
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+}
+.iki{
+    border: 1px solid red;
+    width: 500px;
+    height: 100px;
+    background-color:red
+}
+.uc{
+    border: 1px solid green;
+    width: 500px;
+    height: 100px;
+    background-color:green
+}
